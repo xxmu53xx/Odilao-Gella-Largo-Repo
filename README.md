@@ -36,7 +36,7 @@ DilaoRant is a comprehensive web application designed to optimize restaurant ope
 
 - **User Authentication and Access Control**
   - Secure login to ensure only authorized users can access specific areas.
-  - Role-based access for admins, managers, and other user types.
+  - Role-based access for admins and other user types.
 
 - **Order Management**
   - Create, update, and track customer orders efficiently.
