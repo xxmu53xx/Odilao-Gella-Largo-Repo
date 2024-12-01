@@ -20,11 +20,51 @@
 ---
 
 #  Introduction 
-
+<p align="center">
+  <img src="https://drive.google.com/uc?id=1XNGwxy362Ff7IBXTHgoQwlDAwv9fDk0D" alt="Your Image Description" width="800" />
+</p>
 <p>DilaoRant is a comprehensive web application designed to optimize restaurant operations for owners, managers, staff, and customers. It facilitates tasks such as order management, inventory tracking, employee scheduling, and payment processing, while ensuring secure user authentication and robust data protection. This project aims to create an efficient and reliable system that streamlines daily workflows, enhances user experience, and supports the overall growth and success of restaurants.</p>
 ---
 
 # Features
+- **User Authentication and Access Control**
+  - Secure login to ensure only authorized users can access specific areas.
+  - Role-based access for admins, managers, and other user types.
+
+- **Order Management**
+  - Create, update, and track customer orders efficiently.
+  - Generate kitchen tickets and order confirmations.
+
+- **Inventory Management**
+  - Track inventory levels and manage supplier details.
+  - Generate alerts for low stock to prevent shortages.
+
+- **Employee Scheduling**
+  - Create and manage employee work schedules.
+  - Track attendance and handle shift changes.
+
+- **Menu Management**
+  - Update and manage the restaurant menu, including prices and item availability.
+
+- **Payment Processing**
+  - Handle customer payments and integrate with third-party payment processors.
+  - Generate payment confirmations and receipts.
+
+- **Reporting**
+  - Generate detailed reports for sales, inventory, and employee performance.
+
+- **Notifications and Alerts**
+  - Send notifications and alerts for order status updates and low inventory levels.
+
+- **Advanced Search Functionality**
+  - Locate specific orders, customers, or inventory items using advanced search options.
+
+- **Password Management**
+  - Password recovery and change mechanisms for enhanced security.
+
+- **Security and Data Privacy**
+  - Ensure compliance with relevant regulations and standards.
+  - Implement encryption and robust access controls.
 
 ---
 
