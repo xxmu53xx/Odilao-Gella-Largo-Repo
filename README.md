@@ -17,6 +17,7 @@
 - [Entity Relations Diagram (ERD)](#entity-relations-diagram-erd)
 - [UI/UX Design](#uiux-design)
 - [Contributors](#contributors)
+
 ---
 
 #  Introduction 
@@ -24,6 +25,7 @@
   <img src="https://drive.google.com/uc?id=1XNGwxy362Ff7IBXTHgoQwlDAwv9fDk0D" alt="Your Image Description" width="800" />
 </p>
 <p>DilaoRant is a comprehensive web application designed to optimize restaurant operations for owners, managers, staff, and customers. It facilitates tasks such as order management, inventory tracking, employee scheduling, and payment processing, while ensuring secure user authentication and robust data protection. This project aims to create an efficient and reliable system that streamlines daily workflows, enhances user experience, and supports the overall growth and success of restaurants.</p>
+
 ---
 
 # Features
